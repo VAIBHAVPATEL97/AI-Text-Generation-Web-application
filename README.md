@@ -2,7 +2,7 @@
 
 This repository contains the production ready web application for artificial text generation using GPT2. Web application takes input from the user and displays the output to the user.
 
-Note: Front-end is very basic created for only for testing purposes. As, this is just MVP for the demo purposes to the clients. 
+Note: Front-end is very basic created for only for testing purposes. As, this is just MVP for the demo purposes to the clients. For demo purposes, out-of-the-box GPT-2 model is used it will be replace by our trained domain specific GPT-3 model (as discussed in the client meeting).
 
 Prerequistes: You should have docker and python 3.6 or above installed on your machine.
  
