@@ -22,7 +22,6 @@ sudo bash run_and_build_docker.sh
 ```
 docker-compose ps
 ```
-Reason to select the GPT-2 model from hugging faces is solely based on my interest to explore the model. More details can be found in jupyter notebook in this repo.
 
 Note: If there are any issues with the repository feel free to create good first issue I will be happy to solve. 
 
