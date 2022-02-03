@@ -26,4 +26,3 @@ Reason to select the GPT-2 model from hugging faces is solely based on my intere
 
 Note: If there are any issues with the repository feel free to create good first issue I will be happy to solve. 
 
-Cheers!! Keep learning and evolving..
