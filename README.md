@@ -1,4 +1,6 @@
-Task 2: Steps to run the application.
+# AI based Text Generation Web Application
+
+This repository contains the production ready web application for artificial text generation using GPT2. Web application takes input from the user and displays the output to the user. Note: Front-end is very basic created for only for testing purposes. As, this is just MVP for the demo purposes to the clients. 
 
 Prerequistes: You should have docker and python 3.6 or above installed on your machine.
  
